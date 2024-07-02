@@ -1,0 +1,5 @@
+ctransformers==0.2.5 #for use llm we want 
+sentence-transformers==2.2.2 #free embedding mode
+pinecone-client
+langchain==0.0.225
+flask
